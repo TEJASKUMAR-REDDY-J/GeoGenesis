@@ -2,7 +2,8 @@
 
 **Project Description:**
 
-GeoGenesis is an innovative project designed to autonomously generate detailed and accurate 3D geographical models of complex environments using a swarm of drones. By integrating Simultaneous Localization and Mapping (SLAM), Reinforcement Learning (RL), and intelligent agentic pipelines, GeoGenesis enables efficient exploration and data acquisition in challenging terrains such as quarries, forests, mines, and nuclear sites. This project aims to provide a robust platform for environmental monitoring, surveying, and analysis.
+GeoGenesis is an innovative project designed to autonomously generate detailed and accurate 3D geographical models of complex environments using a swarm of drones. By integrating Simultaneous Localization and Mapping (SLAM), Reinforcement Learning (RL), and intelligent agentic pipelines, GeoGenesis enables efficient exploration and data acquisition in challenging terrains such as quarries, forests, mines, and nuclear sites. This project aims to provide a robust platform for environmental monitoring, surveying, and analysis. 
+**This project is still under progress and is subject to changes, you can refer to the branches for any details or works done**
 
 **Key Features:**
 
